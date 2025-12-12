@@ -1,7 +1,10 @@
 # 💫 Hi 👋, I'm M Manohar Reddy
 **Aspiring Software Engineer | MERN Stack Developer | AI & ML Enthusiast | Actively Seeking Internship Opportunities**
 
-Email Me 👉 ✉️ **manoharreddyind@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
+🔗 Portfolio: https://your-portfolio-link-here
+
+📩 Email Me: manoharreddyind@gmail.com
+ — for collabs, projects, or anything exciting 🚀
 
 - 🔭 **I’m currently working on:** CampusKart
 - 🌱 **I’m currently learning:** DSA
