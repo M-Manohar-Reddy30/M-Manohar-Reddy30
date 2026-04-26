@@ -6,7 +6,7 @@
 📩 Email Me: manoharreddyind@gmail.com
  — for collabs, projects, or anything exciting 🚀
 
-- 🔭 **I’m currently working on:** CampusKart
+- 🔭 **I’m currently working on:** SrmFoodZone
 - 🌱 **I’m currently learning:** DSA
 - 👯 **I’m looking to collaborate on:** Projects
 - 🤔 **I’m looking for help with:** CampusKart
